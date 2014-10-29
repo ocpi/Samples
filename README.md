@@ -3,5 +3,10 @@ OCPI
 
 Open Chargepoint Interface
 
-```test:123
+```json
+[
+  {
+    "test": 123
+  }
+]
 ```
