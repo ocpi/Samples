@@ -36,7 +36,7 @@ findChargepoints
 						"price_gross":"0.1000",
 						"price_net":"0.1200",
 						"pricing_unit":"kWhToEV",
-						"tariff_id":"11237",
+						"tariff_id":"xxxxx",
 						"tax_pct":21,
 						"validity_rule":""
 					  },
@@ -47,7 +47,7 @@ findChargepoints
 						"price_gross":"0.0000",
 						"price_net":"0.0000",
 						"pricing_unit":"charginghours",
-						"tariff_id":"11237",
+						"tariff_id":"xxxxx",
 						"tax_pct":21,
 						"validity_rule":""
 					  },
@@ -57,34 +57,34 @@ findChargepoints
 				  "type":"Onbekend"
 				},
 			],
-			"identifier":"EVB-P1306004",
+			"identifier":"PRO-XXXXXXXX",
 			"location":
 			  {
 			    "chargepoint_location":
 				  {
-				    "address":"Eemnesserweg 42 ",
-					"city":"Laren",
+				    "address":"street nr ",
+					"city":"City",
 					"country":"NL",
 					"floor":0,
 					"loc":
 					  {
-					    "lat":52.25545,
-						"lon":5.23403
+					    "lat":xx.xxxxx,
+						"lon":x.xxxxx
 					  },
-					"postal_code":"3755 MX"
+					"postal_code":"0000 AA"
 				  },
 				"entry_location":
 				{
-				    "address":"Eemnesserweg 42 ",
-					"city":"Laren",
+				    "address":"street nr ",
+					"city":"City",
 					"country":"NL",
 					"floor":0,
 					"loc":
 					  {
-					    "lat":52.25545,
-						"lon":5.23403
+					    "lat":xx.xxxxx,
+						"lon":x.xxxxx
 					  },
-					"postal_code":"3755 MX"
+					"postal_code":"0000 AA"
 				},
 				"note":"",
 				"pictures":null,
@@ -92,11 +92,11 @@ findChargepoints
 				"service_phone":"",
 				"service_text":""
 			  },
-			"name":"EVB-P1306004",
+			"name":"PRO-XXXXXXXX",
 			"operator":
 			  {
 			    "description":"",
-				"identifier":"EV-Box",
+				"identifier":"PRO",
 				"phone":"",
 				"url":""
 			  },
@@ -104,7 +104,7 @@ findChargepoints
 			"vehicle_type":"CAR"
 		  },
 		],
-		"num_found":5
+		"num_found":1
 	  }
  ]
 ```
