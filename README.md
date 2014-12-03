@@ -11,9 +11,9 @@ JSON response examples
 Providers
 ---------
 
-* [List of providers](https://github.com/ocpi/OCPI/blob/Development/ocpi/providers.md)
+* [List of providers](https://github.com/ocpi/OCPI/blob/Development/providers.md)
 
 Error codes
 -----------
 
-* [Error codes](https://github.com/ocpi/OCPI/blob/Development/error_codes.md)
+* [Error codes](https://github.com/ocpi/OCPI/blob/Development/ocpi/error_codes.md)
